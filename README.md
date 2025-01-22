@@ -18,11 +18,8 @@ This repository contains all the BACKEND folder.
 ## 📱Features
 
 - **User Authentication Screens:** Includes login and sign-up interfaces with a clean and modern design.
-- **Home Dashboard:** A user-friendly dashboard providing quick access to book clinic or home visits.
-- **Doctor Profiles:** Detailed doctor profiles with reviews, location, and booking options.
-- **Messaging Interface:** Real-time chat UI designed for patient-doctor communication.
-- **Appointment Management:** Screens to view, schedule, reschedule, or cancel appointments.
-- **Settings Page:** Customizable settings for profile management, notifications, and privacy.
+- **Registeration:** User will register to the application easily.
+- **Login:** After registraion user will successfully login.
 
 
 ## 🎨 Design Principles
